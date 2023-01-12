@@ -1,0 +1,6 @@
+datasource:
+  # Задаём базу данных, к которой будет происходить подключение
+  db:
+    username: ""
+    password: ""
+    url: "jdbc:h2:./hexlet"
